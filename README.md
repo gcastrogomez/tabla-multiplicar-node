@@ -4,6 +4,7 @@ Para ejecutarlo pueden abrir un terminal e introducir los siguiente comandos:
 git clone https://github.com/gcastrogomez/tabla-multiplicar-node
 cd tabla-multiplicar-node
 npm install
+node app
 ```
 # Notas
 Aquí tienen los diferentes comandos para ejecutar la aplicación y crear correctamente los archivos de texto en la carpeta salida. Deben ejecutar el comando "node app" seguido de las siguientes opciones:
